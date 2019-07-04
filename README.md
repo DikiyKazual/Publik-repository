@@ -1,2 +1,2 @@
 # Publik-repository
-tupa public
+Для проекта Анатолия

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tupa Stopwatch</string>
+    <string name="mainActivityLabel">Tupa Stopwatch</string>
+    <string name="startString">СТАРТ</string>
+    <string name="pauseString">ПАУЗА</string>
+    <string name="resetString">СБРОС</string>
+    <string name="loadSplitsString">ВЫБРАТЬ МАРШРУТ</string>
+    <string name="EditSplitsString">РЕДАКТИРОВАТЬ МАРШРУТЫ</string>
+    <string name="MakeSplitsString">СОЗДАТЬ МАРШРУТ</string>
+    <string name="EditTextSplitsString">ВВЕДИ НУЖНЫЕ ЭТАПЫ \nПО ОДНОМУ НАЗВАНИЮ В СТРОЧКУ</string>
+    <string name="EditTextSplitsNameString">ВВЕДИ ИМЯ ФАЙЛА ДЛЯ СОХРАНЕНИЯ</string>
+    <string name="editTextCurrentSplitString">Текущий этап</string>
+    <string name="editTextCurrentSplitNameString">Текущий маршрут</string>
+    <string name="SircleButtonString">КРУГ</string>
+    <string name="SaveCreatedSplitsString">СОХРАНИТЬ НАПИСАННЫЕ ЭТАПЫ</string>
+    <string name="DeleteSplitButtonString">УДАЛИТЬ МАРШРУТЫ</string>
+    <string name="helpString">помощь</string>
+    <string name="goToSplitsButtonString">ПЕРЕЙТИ ОБРАТНО К СЕКУНДОМЕРУ</string>
+    <string name="goToFirstScreenButtonString">ТУПА ПЕРЕЙТИ К  ТУПА СЕКУНДОМЕРУ</string>
+</resources>
